@@ -7,6 +7,10 @@ import xgboost
 import sqlite3
 from datetime import datetime
 
+# Function to get database connection
+def get_db_connection():
+    return sqlite3.connect('loan_data.db')
+
 # Load the machine learning model
 with open("model.pkl", 'rb') as f:
     model = pickle.load(f)
