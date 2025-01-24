@@ -76,8 +76,8 @@ The dataset and predictions are used strictly for **educational and research pur
 # In short, financial behavior and capacity to repay (like previous defaults and income) are the key determinants of loan approval.
 
 # App branding
-st.title("Bank Loan Status Prediction 💰💹")
-st.subheader("For BANK & Loan Request Customers")
+st.title("Loan Status Prediction 💰💹")
+st.subheader("For Bank & Loan Request Customers")
 
 # Input customer ID
 st.subheader("Customer Details")
