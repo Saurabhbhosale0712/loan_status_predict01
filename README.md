@@ -3,6 +3,7 @@
 
 **Declaration**  
 
+
 This application is developed for **educational purposes** to demonstrate the use of machine learning techniques in predicting loan approval statuses. It utilizes a **loan dataset** with key financial and personal features such as age, income, credit score, loan amount, and more to highlight the predictive capabilities of AI models.  
 
 The app serves as an interactive tool for understanding the importance of various features in loan approval, showcasing insights into how financial institutions evaluate loan applications. It emphasizes learning and exploration of data science concepts, feature importance, and real-world application scenarios in the domain of banking and finance.  
@@ -12,7 +13,8 @@ The dataset and predictions are used strictly for **educational and research pur
 
 
 
-In predicting loan approval, the most important factors are:
+** In predicting loan approval, the most important factors are:**
+
 
 1. **Previous Loan Defaults (22.58%)**: Strongly impacts approval, as past defaults are a major risk factor.
 2. **Loan-to-Income Ratio (16.47%)**: A higher ratio indicates a higher risk of non-repayment, reducing approval chances.
