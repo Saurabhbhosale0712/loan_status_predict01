@@ -1,0 +1,19 @@
+# Data Manipulation and Analysis
+pandas==2.2.3
+numpy==2.2.1
+
+# Preprocessing
+
+
+scikit-learn==1.6.0
+streamlit==1.41.1
+xgboost==2.1.3
+sqlite3==3.34.1
+
+
+streamlit
+numpy
+pandas
+xgboost
+sqlite3
+datetime
